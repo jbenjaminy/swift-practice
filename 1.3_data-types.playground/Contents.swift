@@ -24,3 +24,14 @@
     var numberOfPushups = 50
     var didWorkOutToday = true
 
+    // Convert 'Double' to an 'Int'
+    milesRunToday = Int(3.4)
+
+    // Alternatively, set as a 'Double' from the start
+        // (use a colon, which essentially means, 'x is of type y'
+    var kilometersRunToday: Double = 3
+    kilometersRunToday = 3.4
+
+    // When setting variable names, best to avoid abbreviations unless they are very common, like 'url'
+
+
